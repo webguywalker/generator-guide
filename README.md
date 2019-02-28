@@ -7,5 +7,5 @@ Yeoman Generator, provides a hands-on and example driven approach to creating a 
 - Install Yeoman: `npm install -g yo`
 
 ## Getting Started
-- `yo mon`
+- `yo guide`
 
